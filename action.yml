@@ -1,6 +1,6 @@
-name: install-docker-action
+name: install-containers-action
 description: This is docker install-dcker-action
-author: 'Olabode Adewumi'
+author: 'Olabode Adewumi Segun'
 runs:
   using: composite
   steps:
